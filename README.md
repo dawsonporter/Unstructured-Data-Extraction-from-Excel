@@ -2,7 +2,7 @@
 
 This repository contains a Python-based GUI tool designed to facilitate the extraction of specific data from unstructured Excel sheets. Through an intuitive interface, users can select target Excel files, define search keywords, and produce summarized CSV outputs efficiently.
 
-![Screenshot of the Application](link-to-a-screenshot-if-you-have-one.png)
+![Screenshot of the Application]("C:\Users\dawso\OneDrive\Desktop\Screenshot 2023-10-26 134520.png")
 
 ## Features
 
