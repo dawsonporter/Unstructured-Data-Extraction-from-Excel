@@ -13,6 +13,8 @@ This repository hosts a Python-based GUI application tailored for extracting spe
 - **Keyword-Based Extraction with Value Association**: Users can opt to extract data based on specific keywords. Moreover, the tool lets users specify where the associated value is in relation to the keyword, effectively handling key-pair associations within the sheets.
   
 - **Automated Summary Generation**: Post-extraction, the application generates a structured summary CSV file. This summary is saved in the initially selected directory with the name `0 - summary`, providing users with an organized overview of the extracted data at a glance.
+  
+- **Excel Test File Generation**: A script, `generate_test_files.py`, is included to create 50 Excel files in a folder on your desktop. These files contain unstructured data, making them ideal for testing the extraction capabilities of the GUI application.
 
 ## Installation
 
